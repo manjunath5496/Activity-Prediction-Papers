@@ -4,86 +4,91 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(1).pdf" style="text-decoration:none;">Forest Rescoring: Faster Decoding with Integrated Language Models</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(1).pdf" style="text-decoration:none;">Anticipating Visual Representations from Unlabeled Video</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(2).pdf" style="text-decoration:none;">Online adaptation strategies for statistical machine translation in post-editing scenarios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(2).pdf" style="text-decoration:none;">Recurrent Neural Networks for Driver Activity Anticipation via Sensory-Fusion Architecture</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(3).pdf" style="text-decoration:none;">Cost-sensitive active learning for computer-assisted translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(4).pdf" style="text-decoration:none;">Target-Text Mediated Interactive Machine Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(5).pdf" style="text-decoration:none;">Dual Inference for Machine Learning</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(6).pdf" style="text-decoration:none;">Exploiting Similarities among Languages for Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(7).pdf" style="text-decoration:none;">Neural Machine Translation by Jointly Learning to Align and Translate</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(3).pdf" style="text-decoration:none;">Deep Action- and Context-Aware Sequence Learning for Activity Recognition and Anticipation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(4).pdf" style="text-decoration:none;">Online Real-time Multiple Spatiotemporal Action Localisation and Prediction</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(5).pdf" style="text-decoration:none;">First-Person Activity Forecasting with Online Inverse Reinforcement Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(6).pdf" style="text-decoration:none;">Soft + Hardwired Attention: An LSTM Framework for Human Trajectory Prediction and Abnormal Event Detection</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(7).pdf" style="text-decoration:none;">Encouraging LSTMs to Anticipate Actions Very Early</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(8).pdf" style="text-decoration:none;"> Embedding Word Similarity with Neural Machine Translation</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(9).pdf" style="text-decoration:none;">Improving zero-shot learning by mitigating the hubness problem</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(8).pdf" style="text-decoration:none;"> Context-Aware Trajectory Prediction in Crowded Spaces</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(9).pdf" style="text-decoration:none;">Human Trajectory Prediction using Spatially aware Deep Attention Models</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(10).pdf" style="text-decoration:none;">Adam: A Method for Stochastic Optimization</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(11).pdf" style="text-decoration:none;">Effective Approaches to Attention-based Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(12).pdf" style="text-decoration:none;">Neural Machine Translation of Rare Words with Subword Units</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(13).pdf" style="text-decoration:none;">Multi-task Sequence to Sequence Learning</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(10).pdf" style="text-decoration:none;">RED: Reinforced Encoder-Decoder Networks for Action Anticipation</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(11).pdf" style="text-decoration:none;">Using Cross-Model EgoSupervision
+to Learn Cooperative Basketball Intention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(12).pdf" style="text-decoration:none;">On Encoding Temporal Evolution for Real-time Action Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(13).pdf" style="text-decoration:none;">Temporal Relational Reasoning in Videos</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(14).pdf" style="text-decoration:none;">Improving Neural Machine Translation Models with Monolingual Data</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(14).pdf" style="text-decoration:none;">Predictive Learning: Using Future
+Representation Learning Variantial Autoencoder for Human Action Prediction</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(15).pdf" style="text-decoration:none;">Sequence Level Training with Recurrent Neural Networks</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(15).pdf" style="text-decoration:none;">When will you do what? - Anticipating Temporal Occurrences of Activities</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(16).pdf" style="text-decoration:none;">Multi-Source Neural Translation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(16).pdf" style="text-decoration:none;">Anticipating Traffic Accidents with Adaptive Loss and Large-scale Incident DB</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(17).pdf" style="text-decoration:none;">Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(17).pdf" style="text-decoration:none;">Human Action Recognition and Prediction: A Survey</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(18).pdf" style="text-decoration:none;">Incorporating Structural Alignment Biases into an Attentional Neural Translation Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(18).pdf" style="text-decoration:none;">SR-LSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(19).pdf" style="text-decoration:none;">Zero-Resource Translation with Multi-Lingual Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(19).pdf" style="text-decoration:none;">Long-Term On-Board Prediction of People in Traffic Scenes under Uncertainty</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(20).pdf" style="text-decoration:none;"> An Actor-Critic Algorithm for Sequence Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(20).pdf" style="text-decoration:none;"> Long-Term Activity Forecasting
+using First-Person Vision</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(21).pdf" style="text-decoration:none;">Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(22).pdf" style="text-decoration:none;">Neural Machine Translation in Linear Time</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(23).pdf" style="text-decoration:none;">Neural Machine Translation with Reconstruction</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(21).pdf" style="text-decoration:none;">Anticipating Accidents in Dashcam Videos</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(22).pdf" style="text-decoration:none;">Looking to Relations for Future Trajectory Forecast</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(23).pdf" style="text-decoration:none;">Social LSTM: Human Trajectory Prediction in Crowded Spaces</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(24).pdf" style="text-decoration:none;">Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Tra</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(24).pdf" style="text-decoration:none;">Predicting the Future: A Jointly Learnt Model for Action Anticipation</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(25).pdf" style="text-decoration:none;">Neural Machine Translation and Sequence-to-sequence Models: A Tutorial</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(26).pdf" style="text-decoration:none;">A Structured Self-attentive Sentence Embedding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(27).pdf" style="text-decoration:none;">Sequence-to-Sequence Models Can Directly Translate Foreign Speech</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(25).pdf" style="text-decoration:none;">STGAT: Modeling Spatial-Temporal Interactions for Human Trajectory Prediction</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(26).pdf" style="text-decoration:none;">Human Activity Prediction:
+Early Recognition of Ongoing Activities from Streaming Videos</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(27).pdf" style="text-decoration:none;">Time-Conditioned Action Anticipation in One Shot</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(28).pdf" style="text-decoration:none;">Convolutional Sequence to Sequence Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(28).pdf" style="text-decoration:none;">Deep Sequential Context Networks for Action Prediction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(29).pdf" style="text-decoration:none;">A Survey of Cross-lingual Word Embedding Models</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(29).pdf" style="text-decoration:none;">Part-Activated Deep Reinforcement Learning for Action Prediction</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(30).pdf" style="text-decoration:none;">Dual Supervised Learning</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(30).pdf" style="text-decoration:none;">Which Way Are You Going? Imitative Decision Learning for Path Forecasting in Dynamic Scenes</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(31).pdf" style="text-decoration:none;">DiSAN: Directional Self-Attention Network for RNN/CNN-Free Language Understanding</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(32).pdf" style="text-decoration:none;">Statistical Machine Translation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(31).pdf" style="text-decoration:none;">Peeking into the Future:
+Predicting Future Person Activities and Locations in Videos</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(32).pdf" style="text-decoration:none;">SSNet: Scale Selection Network for Online 3D Action Prediction</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(33).pdf" style="text-decoration:none;">Attentive Convolution:
-Equipping CNNs with RNN-style Attention Mechanisms</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(33).pdf" style="text-decoration:none;">Forecasting Interactive Dynamics of Pedestrians with Fictitious Play</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(34).pdf" style="text-decoration:none;">Non-Autoregressive Neural Machine Translation</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(34).pdf" style="text-decoration:none;">Learning Activity Progression in LSTMs for Activity Detection and Early Detection</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(35).pdf" style="text-decoration:none;">Learning to Remember Translation History with a Continuous Cache</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(35).pdf" style="text-decoration:none;">Joint Prediction of Activity Labels and Starting Times in Untrimmed Videos</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(36).pdf" style="text-decoration:none;">Improved English to Russian Translation by Neural Suffix Prediction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(36).pdf" style="text-decoration:none;">Predicting Human Activities Using Stochastic Grammar</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(37).pdf" style="text-decoration:none;">Asynchronous Bidirectional Decoding for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(38).pdf" style="text-decoration:none;">Reinforced Self-Attention Network: a Hybrid of Hard and Soft Attention for Sequence Modeling</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(39).pdf" style="text-decoration:none;">Zero-Resource Neural Machine Translation with Multi-Agent Communication Game</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(40).pdf" style="text-decoration:none;">Tied Multitask Learning for Neural Speech Translation</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(41).pdf" style="text-decoration:none;">Analyzing Uncertainty in Neural Machine Translation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(42).pdf" style="text-decoration:none;">Fast Decoding in Sequence Models Using Discrete Latent Variables</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(37).pdf" style="text-decoration:none;">Binary Coding for Partial Action Analysis with Limited Observation Ratios</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(38).pdf" style="text-decoration:none;">SoPhie: An Attentive GAN for Predicting Paths Compliant to Social and Physical Constraints</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(39).pdf" style="text-decoration:none;">Zero-Shot Anticipation for Instructional Activities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(40).pdf" style="text-decoration:none;">Relational Action Forecasting</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(41).pdf" style="text-decoration:none;">Progressive Teacher-student Learning for Early Action Prediction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(42).pdf" style="text-decoration:none;">Anticipating Daily Intention using On-Wrist Motion Triggered Sensing</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(43).pdf" style="text-decoration:none;">Bi-Directional Block Self-Attention for Fast and Memory-Efficient Sequence Modeling</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(44).pdf" style="text-decoration:none;">SEQ2SEQ-VIS : A Visual Debugging Tool for Sequence-to-Sequence Models</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(45).pdf" style="text-decoration:none;">A Reinforcement Learning Approach to Interactive-Predictive Neural Machine Translation</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(43).pdf" style="text-decoration:none;">Encoding Crowd Interaction with Deep Neural Network for Pedestrian Trajectory Prediction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(44).pdf" style="text-decoration:none;">Egocentric Activity Prediction via Event Modulated Attention</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(45).pdf" style="text-decoration:none;">Action Anticipation with RBF Kernelized Feature Mapping RNN</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(46).pdf" style="text-decoration:none;">Fusing Recency into Neural Machine Translation with an Inter-Sentence Gate Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(46).pdf" style="text-decoration:none;">Agent-Centric Risk Assessment:
+Accident Anticipation and Risky Region Localization</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(47).pdf" style="text-decoration:none;">The price of debiasing automatic metrics in natural language evaluation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(48).pdf" style="text-decoration:none;">"Bilingual Expert" Can Find Translation Errors</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(47).pdf" style="text-decoration:none;">Visual Forecasting by Imitating Dynamics in Natural Sequences</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(48).pdf" style="text-decoration:none;">Spatiotemporal Feature Residual Propagation for Action Prediction</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(49).pdf" style="text-decoration:none;">Neural Machine Translation of Text from Non-Native Speakers</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Activity-Prediction-Papers/blob/master/act(49).pdf" style="text-decoration:none;">A Hierarchical Representation for Future Action Prediction</a></li>
   
   </ul>
